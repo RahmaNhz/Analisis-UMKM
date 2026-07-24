@@ -5,10 +5,7 @@
 ---
 ## 📷 Dashboard
 
-> **Tambahkan screenshot dashboard Power BI di bawah ini**
-
-![Dashboard UMKM](images/<img width="4150" height="2400" alt="umkm" src="https://github.com/user-attachments/assets/9246c74a-52d1-4b8c-ba24-ebf7830025f9" />
-umkm.png)
+<img width="4150" height="2400" alt="umkm" src="https://github.com/user-attachments/assets/9246c74a-52d1-4b8c-ba24-ebf7830025f9" />
 ---
 
 # 📖 Deskripsi Proyek
