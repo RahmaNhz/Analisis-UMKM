@@ -3,6 +3,13 @@
 > Dashboard interaktif menggunakan **Power BI** untuk menganalisis profil dan kinerja Usaha Mikro, Kecil, dan Menengah (UMKM) berdasarkan berbagai indikator bisnis seperti omzet, laba, marketplace, legalitas usaha, tenaga kerja, dan pelanggan.
 
 ---
+## 📷 Dashboard
+
+> **Tambahkan screenshot dashboard Power BI di bawah ini**
+
+![Dashboard UMKM](images/<img width="4150" height="2400" alt="umkm" src="https://github.com/user-attachments/assets/9246c74a-52d1-4b8c-ba24-ebf7830025f9" />
+umkm.png)
+---
 
 # 📖 Deskripsi Proyek
 
@@ -187,4 +194,4 @@ Dashboard ini dapat membantu pengguna untuk:
 
 # 🚀 Hasil Akhir
 
-Dashboard ini dirancang untuk memberikan visualisasi yang interaktif, informatif, dan mudah dipahami sehingga pengguna dapat mengeksplorasi data UMKM berdasarkan berbagai kategori melalui filter yang tersedia. Dashboard juga dapat digunakan sebagai contoh implementasi Business Intelligence menggunakan Microsoft Power BI untuk kebutuhan analisis data.![Uploading umkm_page-0001.jpg…]()
+Dashboard ini dirancang untuk memberikan visualisasi yang interaktif, informatif, dan mudah dipahami sehingga pengguna dapat mengeksplorasi data UMKM berdasarkan berbagai kategori melalui filter yang tersedia. Dashboard juga dapat digunakan sebagai contoh implementasi Business Intelligence menggunakan Microsoft Power BI untuk kebutuhan analisis data.
